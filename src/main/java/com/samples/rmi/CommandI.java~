@@ -1,4 +1,0 @@
-package com.samples.rmi;
-
-import java.rmi.Remote;
-import java.rmi.RemoteException;
